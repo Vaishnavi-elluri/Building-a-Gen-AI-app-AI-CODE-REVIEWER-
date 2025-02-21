@@ -1,1 +1,1 @@
-# Building-an-Gen-AI-app
+# Building-a-Gen-AI-app
