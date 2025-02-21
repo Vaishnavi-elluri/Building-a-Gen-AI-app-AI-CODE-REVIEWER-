@@ -7,12 +7,19 @@
 
 ### Key features of the app ✨
 📝 Easy Code Submission: Simply paste or upload your code into a clean, user-friendly interface.
+
 ⚡ Instant Analysis: Get rapid AI-powered feedback on your code, without waiting around.
+
 🐞 Bug Detection: The system automatically spots potential bugs and errors in your code.
+
 💡 Optimization Suggestions: Receive actionable recommendations to improve performance and efficiency.
+
 🎨 Style & Best Practices: Get advice on adhering to coding standards and best practices.
+
 🔍 Detailed Explanations: Understand the issues with clear, step-by-step insights into what could be improved.
+
 🔄 Iterative Reviews: Update your code and resubmit to see continuous improvement suggestions.
+
 🔐 Privacy & Security: Your code stays secure and private during the review process.
 
 ## Here’s how to use the AI Code Review App built with Streamlit🔥
@@ -35,7 +42,11 @@ Use the feedback to refine your code, then re-submit to check for further improv
 Enjoy coding and enhancing your projects with our AI-powered reviewer!
 
 
-#Links:
+# Links:
+GITHUB : https://github.com/Vaishnavi-elluri/Building-a-Gen-AI-app-AI-CODE-REVIEWER-.git
+APP:  https://fluffy-points-rule.loca.lt/
+Linkdin: 
+   
 
 
 
