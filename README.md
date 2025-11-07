@@ -44,7 +44,7 @@ Enjoy coding and enhancing your projects with our AI-powered reviewer!
 
 # Links:
 GITHUB : https://github.com/Vaishnavi-elluri/Building-a-Gen-AI-app-AI-CODE-REVIEWER-.git
-APP:  https://fluffy-points-rule.loca.lt/
+APP: https://vaishnavi-elluri-building-a-gen-ai-app-ai-code-revi-app2-wh4xfb.streamlit.app/
 Linkdin: https://www.linkedin.com/in/vaishnavi-elluri-721293289/recent-activity/all/
    
 
