@@ -22,9 +22,9 @@ If the code is not Python, politely say you are a Python code reviewer."""
 
     if user_prompt:
         with st.spinner("Generating response..."):
-    try:
-        response = model.generate_content(user_prompt)
-        st.write(response.text)
-    except Exception as e:
-        st.error(f"Error: {e}")
-
+            try:
+                response = model.generate_content(user_prompt)
+                st.write(response.text)
+            except Exception as e:
+                st.error(f"Error: {e}")
+            
