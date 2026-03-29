@@ -11,7 +11,7 @@ user_prompt= st.text_area("Enter your Python code here..")
 
 if st.button("Generate Answer"):
     model = genai.GenerativeModel(
-        model_name="models/gemini-2.0-flash",
+        model_name="models/gemini-flash-latest",
         system_instruction="""You are a helpful AI Code Reviewer.
 Given a python code you are allowed to review and analyze the submitted code.
 Provide feedback.
