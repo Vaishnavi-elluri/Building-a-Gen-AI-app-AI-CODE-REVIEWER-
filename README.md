@@ -1,5 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini Pro](https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 # Building-a-Gen-AI-app(An AI-Code-Reviewer)
-## Here is a live demo: [An AI-Code-Reviewer 🚀](https://fluffy-points-rule.loca.lt/)
+## Here is a live demo: [An AI-Code-Reviewer 🚀](https://vaishnavi-elluri-building-a-gen-ai-app-ai-code-revi-app2-wh4xfb.streamlit.app/)
 
   🚀 A Streamlit-based AI-powered Python Code Reviewer using Google Gemini API
 ### Overview🎯
@@ -44,7 +47,9 @@ Enjoy coding and enhancing your projects with our AI-powered reviewer!
 
 # Links:
 GITHUB : https://github.com/Vaishnavi-elluri/Building-a-Gen-AI-app-AI-CODE-REVIEWER-.git
+
 APP: https://vaishnavi-elluri-building-a-gen-ai-app-ai-code-revi-app2-wh4xfb.streamlit.app/
+
 Linkdin: https://www.linkedin.com/in/vaishnavi-elluri-721293289/recent-activity/all/
    
 
